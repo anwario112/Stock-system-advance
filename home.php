@@ -383,7 +383,7 @@ if(!isset($_SESSION['logged_user'])){
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                 <a class="dropdown-item" href="#">Privacy</a>
                                 <a class="dropdown-item" href="#">information Settings</a>
-                                <a href="customer_logout.php" class="logout">logout</a>
+                                <a href="customer_logout.php" class="dropdown-item">logout</a>
                                 
                             </div>
                         </div>
